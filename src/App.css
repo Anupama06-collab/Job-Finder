@@ -1,0 +1,28 @@
+.container {
+  width: 80%;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.job-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.job-card h2 {
+  margin: 0 0 10px;
+  color: #2c3e50;
+}
+
+.job-card p {
+  margin: 5px 0;
+}
